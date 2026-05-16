@@ -1,4 +1,4 @@
-StellarPay
+# StellarPay
 Cross-border freelancer payment infrastructure powered by Stellar and USDC.
 Overview
 StellarPay helps freelancers and remote workers receive payments globally using USDC and Stellar.
